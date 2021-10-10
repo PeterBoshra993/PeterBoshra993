@@ -1,12 +1,12 @@
-### Hello World, I'm Peter - aka [PeterBoshra993][LinkedIn] wave
+### Hello World, I'm Peter - aka [PeterBoshra993][LinkedIn] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DS_PeterBoshra?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPeterBoshra993&screen_name=DS_PeterBoshra)
 
 ## I'm a photographer, Media Team Leader, Graphic Designer, and enthusiast Data Scientist!!
 
-- telescope Bachelor of Science in Computer Science
-- seedling I’m currently learning Machine Learning and strengthen my abilities in knowledge of data pre-processing rofl
-- goal_net 2022 Goals: Contribute more to Open Source projects and learn more about NoSQL and start posting my knowledge on social media platforms
+-  🔭 Bachelor of Science in Computer Science
+-  🌱 I’m currently learning Machine Learning and strengthen my abilities in knowledge of data pre-processing 🤣
+-  🥅 2022 Goals: Contribute more to Open Source projects and learn more about NoSQL and start posting my knowledge on social media platforms
 
 ### Connect with me:
 
